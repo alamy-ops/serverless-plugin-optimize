@@ -1,8 +1,9 @@
 Serverless Optimize Plugin
+
+Alamy published package with fixes for global options containing variables, used unitl upstream is fixed
+
 =============================
-[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com) 
-[![npm version](https://badge.fury.io/js/serverless-plugin-optimize.svg)](https://badge.fury.io/js/serverless-plugin-optimize)
-[![npm downloads](https://img.shields.io/npm/dm/serverless-plugin-optimize.svg)](https://www.npmjs.com/package/serverless-plugin-optimize)
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![license](https://img.shields.io/npm/l/serverless-plugin-optimize.svg)](https://raw.githubusercontent.com/FidelLimited/serverless-plugin-optimize/master/LICENSE)
 
 Bundle with Browserify, transpile and minify with Babel automatically to your NodeJS runtime compatible JavaScript.
