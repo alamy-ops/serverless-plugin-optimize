@@ -1,0 +1,6 @@
+# Always validate commits, and ignore the PR title
+commitsOnly: true
+
+# Require at least one commit to be valid
+# This means not every commit must conform to semantic format but at least one does
+anyCommit: true
