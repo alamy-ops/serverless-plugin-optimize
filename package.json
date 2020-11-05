@@ -1,6 +1,6 @@
 {
   "name": "@alamy-ops/serverless-plugin-optimize",
-  "version": "4.1.4",
+  "version": "0.0.0-do-not-change-this-package-uses-semantic-release-for-versioning",
   "description": "Bundle with Browserify, transpile and minify with Babel automatically to your NodeJS runtime compatible JavaScript.",
   "main": "src/index.js",
   "scripts": {
